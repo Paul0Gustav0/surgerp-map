@@ -64,6 +64,22 @@
 		]
 	},
 	{
+		"id": 1005,
+		"type": "Territórios",
+		"title": "Marabunta Grande",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "87cefa",
+		"fillcolor": "87cefa",
+		"latlngarray": [
+			{"lat": -73.043, "lng": 24.290},
+			{"lat": -73.966, "lng": 19.149},
+			{"lat": -72.270, "lng": 16.908},
+			{"lat": -71.686, "lng": 21.610}
+		]
+	},
+	{
 		"id": 2001,
 		"type": "Neutro",
 		"title": "",
