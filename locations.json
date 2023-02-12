@@ -80,6 +80,22 @@
 		]
 	},
 	{
+		"id": 0,
+		"type": "Territórios",
+		"title": "Triad",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "e71837",
+		"fillcolor": "e71837",
+		"latlngarray": [
+			{"lat": -64.908, "lng": -36.562},
+			{"lat": -64.890, "lng": -31.882},
+			{"lat": -67.002, "lng": -32.233},
+			{"lat": -66.950, "lng": -36.694}
+		]
+	},
+	{
 		"id": 2001,
 		"type": "Neutro",
 		"title": "",
