@@ -530,7 +530,7 @@ $(function() {
 
 function printArray() {
 	var msg = 'Envie novas regiões aqui:\n'
-	+ 'https://github.com/cauedev/npbr-map/issues\n\n'
+	+ 'https://github.com/Paul0Gustav0/surgerp-map/issues\n\n'
 	+ 'Clique com o botão direito do mouse no mapa para adicionar pontos à região. Você pode ter que desativar as regiões para poder clicar com o botão direito do mouse na camada inferior. Preencha os valores marcados "<edite aqui>" e intitule a nova edição usando o formato: "Adicionar <título> região". Copie e cole tudo abaixo disso. Se o seu navegador não suportar a seleção do texto abaixo, pressione F12 para abrir o console do desenvolvedor e copie-o de lá. (scroll down)\n\n';
 	msg += '```json\n\t{\n\t\t"id": 0,'
 	+ '\n\t\t"type": "Territórios",'
