@@ -1,6 +1,6 @@
 Surge RP Territory map
 ====
-[Live page](editar)
+[Live page](https://paul0gustav0.github.io/surgerp-map/#)
 This interactive (Google) map shows you the location of current Surge RP territory/gang zones.
 
 ## How to submit new locations
