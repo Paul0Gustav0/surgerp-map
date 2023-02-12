@@ -70,8 +70,8 @@
 		"notes": "",
 		"wiki_link": "",
 		"order": 0,
-		"strokecolor": "87cefa",
-		"fillcolor": "87cefa",
+		"strokecolor": "3db0f7",
+		"fillcolor": "3db0f7",
 		"latlngarray": [
 			{"lat": -73.043, "lng": 24.290},
 			{"lat": -73.966, "lng": 19.149},
@@ -93,6 +93,86 @@
 			{"lat": -64.890, "lng": -31.882},
 			{"lat": -67.002, "lng": -32.233},
 			{"lat": -66.950, "lng": -36.694}
+		]
+	},
+	{
+		"id": 1007,
+		"type": "Territórios",
+		"title": "The Lost",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "696969",
+		"fillcolor": "696969",
+		"latlngarray": [
+			{"lat": 41.038, "lng": 30.967},
+			{"lat": 37.606, "lng": 33.582},
+			{"lat": 39.462, "lng": 38.262},
+			{"lat": 43.221, "lng": 34.966}
+		]
+	},
+	{
+		"id": 1008,
+		"type": "Territórios",
+		"title": "Plague",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "87cefa",
+		"fillcolor": "87cefa",
+		"latlngarray": [
+			{"lat": -72.213, "lng": -51.771},
+			{"lat": -71.221, "lng": -47.112},
+			{"lat": -72.677, "lng": -43.641},
+			{"lat": -73.595, "lng": -48.958}
+		]
+	},
+	{
+		"id": 1009,
+		"type": "Territórios",
+		"title": "Kokai",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "0e0e0e",
+		"fillcolor": "0e0e0e",
+		"latlngarray": [
+			{"lat": -48.342, "lng": -19.204},
+			{"lat": -44.325, "lng": -18.764},
+			{"lat": -44.576, "lng": -12.942},
+			{"lat": -48.357, "lng": -13.271}
+		]
+	},
+	{
+		"id": 1010,
+		"type": "Territórios",
+		"title": "??",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": 56.424, "lng": 40.994},
+			{"lat": 55.910, "lng": 33.985},
+			{"lat": 58.833, "lng": 33.744},
+			{"lat": 59.116, "lng": 39.852}
+		]
+	},
+	{
+		"id": 1011,
+		"type": "Territórios",
+		"title": "??",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "4b569c",
+		"fillcolor": "4b569c",
+		"latlngarray": [
+			{"lat": 60.338, "lng": 30.847},
+			{"lat": 60.673, "lng": 36.142},
+			{"lat": 62.966, "lng": 35.075},
+			{"lat": 62.876, "lng": 30.834}
 		]
 	},
 	{
