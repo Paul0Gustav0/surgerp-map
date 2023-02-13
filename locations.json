@@ -281,6 +281,12 @@
 			{"lat": -57.513, "lng": -58.375},
 			{"lat": -57.158, "lng": -57.837},
 			{"lat": -56.589, "lng": -58.758}
+		],
+		"images": [
+			{
+				"headline": "Teste",
+				"url": "https://media.discordapp.net/attachments/1047720584525664327/1074491740448370728/LOGO_UAHI.png?width=468&height=468"
+			}
 		]
 	},
 	{
